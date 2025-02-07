@@ -17,7 +17,22 @@ public class ClockDisplay
     private NumberDisplay hours;
     private NumberDisplay minutes;
     private String displayString;    // simulates the actual display
-    
+    /*
+     * Answear to extra chapter qestions
+     * 
+     * 30)private Rectangle window;
+     *   
+     *       window = new rectangle(5,4); 
+     * 
+     * 33)  Printer P1,p2;
+     * 
+     *      p1.print("xxxxx",true)
+     *      
+     *      p2.print("xxxxx",false)
+     *     
+     *      int status = p1.getStatus(3);
+     *       
+     */
     /**
      * Constructor for ClockDisplay objects. This constructor 
      * creates a new clock set at 00:00.
